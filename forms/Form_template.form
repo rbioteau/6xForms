@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http://www.bonitasoft.org/ns/studio/expression" xmlns:form="http://www.bonitasoft.org/ns/studio/form" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <form:Form xmi:id="_AeWdcHrYEei3ZuW1zp7exw" name="Form_template" version="7.6.0-002">
+    <widgets xmi:type="form:PasswordFormField" xmi:id="_Aubg0HrYEei3ZuW1zp7exw" name="Password1">
+      <widgetLayoutInfo xmi:type="form:WidgetLayoutInfo" xmi:id="_AufLM3rYEei3ZuW1zp7exw" line="1"/>
+      <displayDependentWidgetOnlyAfterFirstEventTriggeredAndCondition xmi:type="expression:Expression" xmi:id="_AudWBnrYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+      <displayAfterEventDependsOnConditionScript xmi:type="expression:Expression" xmi:id="_AudWB3rYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+      <inputExpression xmi:type="expression:Expression" xmi:id="_AudWBXrYEei3ZuW1zp7exw" name="" content=""/>
+      <afterEventExpression xmi:type="expression:Expression" xmi:id="_AudWCHrYEei3ZuW1zp7exw" name="" content=""/>
+      <tooltip xmi:type="expression:Expression" xmi:id="_AudWBHrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <helpMessage xmi:type="expression:Expression" xmi:id="_AudWA3rYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <displayLabel xmi:type="expression:Expression" xmi:id="_AudWAHrYEei3ZuW1zp7exw" name="Password1" content="Password1" returnTypeFixed="true"/>
+      <injectWidgetScript xmi:type="expression:Expression" xmi:id="_AudWAXrYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+      <action xmi:type="expression:Operation" xmi:id="_AudWD3rYEei3ZuW1zp7exw">
+        <leftOperand xmi:type="expression:Expression" xmi:id="_AudWEHrYEei3ZuW1zp7exw"/>
+        <rightOperand xmi:type="expression:Expression" xmi:id="_AudWEXrYEei3ZuW1zp7exw"/>
+        <operator xmi:type="expression:Operator" xmi:id="_AudWEnrYEei3ZuW1zp7exw" type="ASSIGNMENT" expression="="/>
+      </action>
+      <maxNumberOfDuplication xmi:type="expression:Expression" xmi:id="_AudWDnrYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
+      <minNumberOfDuplication xmi:type="expression:Expression" xmi:id="_AudWDXrYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
+      <displayLabelForAdd xmi:type="expression:Expression" xmi:id="_AudWDHrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <tooltipForAdd xmi:type="expression:Expression" xmi:id="_AudWCnrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <displayLabelForRemove xmi:type="expression:Expression" xmi:id="_AudWC3rYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <tooltipForRemove xmi:type="expression:Expression" xmi:id="_AudWCXrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <exampleMessage xmi:type="expression:Expression" xmi:id="_AudWAnrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+    </widgets>
+    <widgets xmi:type="form:CheckBoxSingleFormField" xmi:id="_A31UcHrYEei3ZuW1zp7exw" name="Checkbox1">
+      <widgetLayoutInfo xmi:type="form:WidgetLayoutInfo" xmi:id="_A35l43rYEei3ZuW1zp7exw"/>
+      <displayDependentWidgetOnlyAfterFirstEventTriggeredAndCondition xmi:type="expression:Expression" xmi:id="_A317hnrYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+      <displayAfterEventDependsOnConditionScript xmi:type="expression:Expression" xmi:id="_A317h3rYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+      <inputExpression xmi:type="expression:Expression" xmi:id="_A317hXrYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+      <afterEventExpression xmi:type="expression:Expression" xmi:id="_A317iHrYEei3ZuW1zp7exw" name="" content=""/>
+      <tooltip xmi:type="expression:Expression" xmi:id="_A317hHrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <helpMessage xmi:type="expression:Expression" xmi:id="_A317g3rYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <displayLabel xmi:type="expression:Expression" xmi:id="_A317gHrYEei3ZuW1zp7exw" name="Checkbox1" content="Checkbox1" returnTypeFixed="true"/>
+      <injectWidgetScript xmi:type="expression:Expression" xmi:id="_A317gXrYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+      <action xmi:type="expression:Operation" xmi:id="_A32ilnrYEei3ZuW1zp7exw">
+        <leftOperand xmi:type="expression:Expression" xmi:id="_A32il3rYEei3ZuW1zp7exw"/>
+        <rightOperand xmi:type="expression:Expression" xmi:id="_A32imHrYEei3ZuW1zp7exw"/>
+        <operator xmi:type="expression:Operator" xmi:id="_A32imXrYEei3ZuW1zp7exw" type="ASSIGNMENT" expression="="/>
+      </action>
+      <validators xmi:type="form:Validator" xmi:id="_Eki2wHrYEei3ZuW1zp7exw" name="Checkbox1Validator1">
+        <parameter xmi:type="expression:Expression" xmi:id="_Ek0jkHrYEei3ZuW1zp7exw" content=""/>
+        <displayName xmi:type="expression:Expression" xmi:id="_Ek6qMHrYEei3ZuW1zp7exw" content=""/>
+      </validators>
+      <maxNumberOfDuplication xmi:type="expression:Expression" xmi:id="_A32ilXrYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
+      <minNumberOfDuplication xmi:type="expression:Expression" xmi:id="_A32ilHrYEei3ZuW1zp7exw" name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
+      <displayLabelForAdd xmi:type="expression:Expression" xmi:id="_A32ik3rYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <tooltipForAdd xmi:type="expression:Expression" xmi:id="_A32ikXrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <displayLabelForRemove xmi:type="expression:Expression" xmi:id="_A32iknrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <tooltipForRemove xmi:type="expression:Expression" xmi:id="_A32ikHrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+      <exampleMessage xmi:type="expression:Expression" xmi:id="_A317gnrYEei3ZuW1zp7exw" name="" content="" returnTypeFixed="true"/>
+    </widgets>
+    <pageLabel xmi:type="expression:Expression" xmi:id="_AeWdcXrYEei3ZuW1zp7exw" name="Form_template" content="Form_template"/>
+  </form:Form>
+  <notation:Diagram xmi:id="_AeYSoHrYEei3ZuW1zp7exw" type="Form" element="_AeWdcHrYEei3ZuW1zp7exw" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_AufLMHrYEei3ZuW1zp7exw" type="2117" element="_Aubg0HrYEei3ZuW1zp7exw" fontName="Ubuntu">
+      <children xmi:type="notation:DecorationNode" xmi:id="_AufLMnrYEei3ZuW1zp7exw" type="5153"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AufLMXrYEei3ZuW1zp7exw"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_A35l4HrYEei3ZuW1zp7exw" type="2130" element="_A31UcHrYEei3ZuW1zp7exw" fontName="Ubuntu">
+      <children xmi:type="notation:DecorationNode" xmi:id="_A35l4nrYEei3ZuW1zp7exw" type="5148"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A35l4XrYEei3ZuW1zp7exw"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_AeYSoXrYEei3ZuW1zp7exw"/>
+  </notation:Diagram>
+</xmi:XMI>

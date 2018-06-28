@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<form:PasswordFormField xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:form="http://www.bonitasoft.org/ns/studio/form" name="Password1">
+  <widgetLayoutInfo/>
+  <displayDependentWidgetOnlyAfterFirstEventTriggeredAndCondition name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+  <displayAfterEventDependsOnConditionScript name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+  <inputExpression name="" content=""/>
+  <afterEventExpression name="" content=""/>
+  <tooltip name="" content="" returnTypeFixed="true"/>
+  <helpMessage name="" content="" returnTypeFixed="true"/>
+  <displayLabel name="Password1" content="Password1" returnTypeFixed="true"/>
+  <injectWidgetScript name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+  <action>
+    <leftOperand/>
+    <rightOperand/>
+    <operator type="ASSIGNMENT" expression="="/>
+  </action>
+  <maxNumberOfDuplication name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
+  <minNumberOfDuplication name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
+  <displayLabelForAdd name="" content="" returnTypeFixed="true"/>
+  <tooltipForAdd name="" content="" returnTypeFixed="true"/>
+  <displayLabelForRemove name="" content="" returnTypeFixed="true"/>
+  <tooltipForRemove name="" content="" returnTypeFixed="true"/>
+  <exampleMessage name="" content="" returnTypeFixed="true"/>
+</form:PasswordFormField>
